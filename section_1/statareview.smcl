@@ -1,0 +1,20 @@
+{smcl}
+{txt}{sf}{ul off}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/benjaminzeisberg/university/Econ1123/section_1/statareview.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}27 Jan 2023, 14:04:11
+{txt}
+{com}. 
+. * Loads in  dataset.  This dataset should be stored in the working directory.
+. use nlsw88
+{txt}(NLSW, 1988 extract)
+
+{com}. 
+. * View the data in spreadsheet form
+. browse
+{txt}
+{com}. 
+{txt}end of do-file
+
+{com}. 
